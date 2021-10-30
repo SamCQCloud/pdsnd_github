@@ -1,3 +1,7 @@
+# Authors' Name: Sameer Khalifa
+# Bike Share System
+# Created on: 28-08-2021
+
 import time
 import pandas as pd
 import numpy as np
