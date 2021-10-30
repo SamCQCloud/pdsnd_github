@@ -11,7 +11,8 @@ Thanks to the rise in information technologies, it is easy for a user of the sys
 This project explores data provided by [Motivate](https://www.motivateco.com/), a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. We will compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
 
 ### Date created
-October 30, 2021.
+Repo date: October 30, 2021.
+bikeshare.py date: August 28, 2021.
 
 ### Files used
 * bikeshare.py
