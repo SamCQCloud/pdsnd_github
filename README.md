@@ -1,5 +1,5 @@
 
-## Bicycle-Sharing System Statistics Project
+## Bike Share System Statistics Project
 #
 
 ### Background Knowledge
