@@ -306,7 +306,7 @@ def main():
         trip_duration_stats(df)
         user_stats(df, city)
 
-        restart = input('\nWould you like to restart? Enter yes or no.\n').lower().strip()
+        restart = input('\nEnter "yes" to restart, "no" otherwise: \n').lower().strip()
         restart = get_long_name(restart, ['yes','no'])    # So it will accept y or n
         if restart.lower() != 'yes':
             break
