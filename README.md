@@ -11,11 +11,14 @@ Thanks to the rise in information technologies, it is easy for a user of the sys
 This project explores data provided by [Motivate](https://www.motivateco.com/), a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. We will compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
 
 ### Date created
-Include the date you created this project and README file.
+October 30, 2021.
 
 ### Files used
-Include the files used
+* bikeshare.py
+* README.md
+* .gitignore  
+  
+  _Note: Data files ".csv" are not included in the repository._
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Other than the _bikeshare.py_ file, This project was forked from the original repository: "[https://github.com/udacity/pdsnd_github](https://github.com/udacity/pdsnd_github)" to use its structure and the README.md file as a guideline to follow.
